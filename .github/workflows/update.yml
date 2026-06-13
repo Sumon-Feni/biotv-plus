@@ -1,4 +1,4 @@
-name: Update APIs Data
+name: Update APIs and M3U Playlist
 
 on:
   schedule:
@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  update-json:
+  update-data:
     runs-on: ubuntu-latest
 
     steps:
@@ -30,5 +30,5 @@ jobs:
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add apis.json
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Update mpd and cookie in apis.json" && git push)
+          git add apis.json playlist.m3u
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-update apis.json and playlist.m3u" && git push)
