@@ -3,13 +3,6 @@ import time
 import json
 import sys
 import os
-import base64
-
-def hex_to_base64url(hex_string):
-    try:
-        return base64.urlsafe_b64encode(bytes.fromhex(hex_string)).decode('utf-8').rstrip('=')
-    except Exception:
-        return ""
 
 url = os.environ.get("API_URL")
 
@@ -54,27 +47,14 @@ try:
         m3u_content += f'#EXTINF:-1 tvg-id="{ch_id}" tvg-logo="{logo}" group-title="{group}",{name}\n'
         m3u_content += '#KODIPROP:inputstream=inputstream.adaptive\n'
         m3u_content += '#KODIPROP:inputstream.adaptive.manifest_type=mpd\n'
-        m3u_content += '#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey\n'
+        m3u_content += '#KODIPROP:inputstream.adaptive.license_type=clearkey\n'
         
         if keys:
-            jwk_keys = []
-            for kid_hex, k_hex in keys.items():
-                kid_b64 = hex_to_base64url(kid_hex)
-                k_b64 = hex_to_base64url(k_hex)
-                if kid_b64 and k_b64:
-                    jwk_keys.append({
-                        "kty": "oct",
-                        "kid": kid_b64,
-                        "k": k_b64
-                    })
+            key_list = list(keys.items())
+            target_index = 2 if len(key_list) >= 3 else 0
+            kid_hex, k_hex = key_list[target_index]
             
-            if jwk_keys:
-                license_key_dict = {
-                    "keys": jwk_keys,
-                    "type": "temporary"
-                }
-                license_key_json = json.dumps(license_key_dict, separators=(',', ':'))
-                m3u_content += f'#KODIPROP:inputstream.adaptive.license_key={license_key_json}\n'
+            m3u_content += f'#KODIPROP:inputstream.adaptive.license_key={kid_hex}:{k_hex}\n'
 
         m3u_content += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0\n'
         m3u_content += '#EXTVLCOPT:http-origin=https://jiotv.com\n'
