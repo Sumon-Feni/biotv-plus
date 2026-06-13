@@ -3,11 +3,17 @@ import time
 import json
 import sys
 import os
+import base64
+
+def hex_to_base64url(hex_string):
+    try:
+        return base64.urlsafe_b64encode(bytes.fromhex(hex_string)).decode('utf-8').rstrip('=')
+    except Exception:
+        return ""
 
 url = os.environ.get("API_URL")
 
 if not url:
-    print("API_URL secret not found!")
     sys.exit(1)
 
 new_cookie = None
@@ -23,7 +29,6 @@ for _ in range(30):
     time.sleep(10)
 
 if not new_cookie:
-    print("Failed to fetch new cookie.")
     sys.exit(1)
 
 try:
@@ -49,13 +54,32 @@ try:
         m3u_content += f'#EXTINF:-1 tvg-id="{ch_id}" tvg-logo="{logo}" group-title="{group}",{name}\n'
         m3u_content += '#KODIPROP:inputstream=inputstream.adaptive\n'
         m3u_content += '#KODIPROP:inputstream.adaptive.manifest_type=mpd\n'
-        m3u_content += '#KODIPROP:inputstream.adaptive.license_type=clearkey\n'
+        m3u_content += '#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey\n'
         
         if keys:
-            first_kid = list(keys.keys())[0]
-            first_key = keys[first_kid]
-            m3u_content += f'#KODIPROP:inputstream.adaptive.license_key={first_kid}:{first_key}\n'
+            jwk_keys = []
+            for kid_hex, k_hex in keys.items():
+                kid_b64 = hex_to_base64url(kid_hex)
+                k_b64 = hex_to_base64url(k_hex)
+                if kid_b64 and k_b64:
+                    jwk_keys.append({
+                        "kty": "oct",
+                        "kid": kid_b64,
+                        "k": k_b64
+                    })
+            
+            if jwk_keys:
+                license_key_dict = {
+                    "keys": jwk_keys,
+                    "type": "temporary"
+                }
+                license_key_json = json.dumps(license_key_dict, separators=(',', ':'))
+                m3u_content += f'#KODIPROP:inputstream.adaptive.license_key={license_key_json}\n'
 
+        m3u_content += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0\n'
+        m3u_content += '#EXTVLCOPT:http-origin=https://jiotv.com\n'
+        m3u_content += '#EXTVLCOPT:http-referrer=https://jiotv.com/\n'
+        
         m3u_content += f'{mpd}\n\n'
 
     with open("apis.json", "w", encoding="utf-8") as f:
@@ -63,9 +87,6 @@ try:
 
     with open("playlist.m3u", "w", encoding="utf-8") as f:
         f.write(m3u_content)
-        
-    print("Successfully updated apis.json and generated playlist.m3u")
 
-except Exception as e:
-    print(f"Error processing files: {e}")
+except Exception:
     sys.exit(1)
