@@ -99,7 +99,7 @@ try:
     with open("ns_player.m3u", "w", encoding="utf-8") as f:
         json.dump(ns_player_data, f, indent=4)
 
-    with open("ott_nav_player.m3u8", "w", encoding="utf-8") as f:
+    with open("ott_nav_player.m3u", "w", encoding="utf-8") as f:
         f.write(ott_nav_content)
 
 except Exception:
