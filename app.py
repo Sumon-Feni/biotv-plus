@@ -21,8 +21,8 @@ new_cookie = None
 for _ in range(30):
     try:
         response = requests.get(url, timeout=10).json()
-        if "extracted_cookie" in response:
-            new_cookie = response["extracted_cookie"]
+        if "cookie" in response:
+            new_cookie = response["cookie"]
             break
     except Exception:
         pass
