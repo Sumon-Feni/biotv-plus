@@ -10,27 +10,25 @@ def hex_to_base64url(hex_string):
         return base64.urlsafe_b64encode(bytes.fromhex(hex_string)).decode('utf-8').rstrip('=')
     except Exception:
         return ""
-
-url = os.environ.get("API_URL")
-
-if not url:
-    sys.exit(1)
+url = os.environ.get("API_URL", "https://apis.fredflix.fun/ck/new.php")
 
 new_cookie = None
 
+print(f"Fetching cookie from: {url}")
 for _ in range(30):
     try:
         response = requests.get(url, timeout=10).json()
         if "cookie" in response:
             new_cookie = response["cookie"]
+            print(f"Successfully fetched cookie: {new_cookie[:30]}...")
             break
-    except Exception:
-        pass
+    except Exception as e:
+        print(f"Retrying... Error: {e}")
     time.sleep(10)
 
 if not new_cookie:
+    print("Failed to fetch cookie after multiple attempts.")
     sys.exit(1)
-
 try:
     with open("apis.json", "r", encoding="utf-8") as f:
         data = json.load(f)
@@ -40,7 +38,6 @@ try:
 
     for item in data:
         item["cookie"] = new_cookie
-        
         if "mpd" in item:
             base_url = item["mpd"].split("?")[0]
             item["mpd"] = f"{base_url}?{new_cookie}"
@@ -58,7 +55,6 @@ try:
             key_list = list(keys.items())
             target_index = 2 if len(key_list) >= 3 else 0
             target_kid_hex, target_k_hex = key_list[target_index]
-
         ns_item = {
             "name": name,
             "logo": logo,
@@ -70,7 +66,6 @@ try:
             "link": mpd
         }
         ns_player_data.append(ns_item)
-
         ott_nav_content += f'#EXTINF:-1 tvg-id="{ch_id}" tvg-logo="{logo}" group-title="{group}",{name}\n'
         ott_nav_content += '#KODIPROP:inputstream=inputstream.adaptive\n'
         ott_nav_content += '#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey\n'
@@ -92,7 +87,6 @@ try:
         ott_nav_content += f'#EXTVLCOPT:http-cookie={new_cookie}\n'
         
         ott_nav_content += f'{mpd}\n\n'
-
     with open("apis.json", "w", encoding="utf-8") as f:
         json.dump(data, f, indent=4)
 
@@ -102,5 +96,8 @@ try:
     with open("ott_nav_player.m3u", "w", encoding="utf-8") as f:
         f.write(ott_nav_content)
 
-except Exception:
+    print("Successfully updated apis.json and all playlists!")
+
+except Exception as e:
+    print(f"Error processing files: {e}")
     sys.exit(1)
