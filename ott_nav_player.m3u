@@ -152,6 +152,20 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/AndPicturesHD_MOB/WDVLive/index.mpd?__hdn
 
 
 
+#EXTINF:-1 tvg-id="476" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyMAX.png" group-title="Hindi Movies (IND IP)",Sony Max HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://keys.cloudplay.qzz.io/pl/plkey.php?id=476
+https://jiotvpllive.cdn.jio.com/bpk-tv/SonyMAX_BTS/WDVLive/index.mpd|cookie=__hdnea__=st=1779643813~exp=1779665413~acl=/bpk-tv/SonyMAX_BTS/WDVLive/*~hmac=648169535e3738a929169c56e29e2114cc48c4e95e8062326fde8a3e702204d3&User-Agent=https://t.me/cloudply || @cloudplay
+
+#EXTINF:-1 tvg-id="165" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeCinemaHD.png" group-title="Hindi Movies (IND IP)",Zee Cinema HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://keys.cloudplay.qzz.io/pl/plkey.php?id=165
+https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeCinemaHD_BTS/WDVLive/index.mpd|cookie=__hdnea__=st=1779643813~exp=1779665413~acl=/bpk-tv/ZeeCinemaHD_BTS/WDVLive/*~hmac=445ba87d61ce55b54c8ecf4a084f8d22c31727d403fef146ad53fabeb6a13bc9&User-Agent=https://t.me/cloudply || @cloudplay
+
+#EXTINF:-1 tvg-id="185" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/AndPicturesHD.png" group-title="Hindi Movies (IND IP)",And Pictures HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://keys.cloudplay.qzz.io/pl/plkey.php?id=185
+https://jiotvpllive.cdn.jio.com/bpk-tv/AndPicturesHD_BTS/WDVLive/index.mpd|cookie=__hdnea__=st=1779643813~exp=1779665413~acl=/bpk-tv/AndPicturesHD_BTS/WDVLive/*~hmac=16f5cfb711b669328d8857d8aba647c8b3fd2dc46103d65df1f60c21fc47efa2&User-Agent=https://t.me/cloudply || @cloudplay
 
 
 
