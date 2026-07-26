@@ -1,5 +1,104 @@
 #EXTM3U x-tvg-url=""
 
+#EXTINF:-1 tvg-id="317" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Jalsha_HD.png" group-title="Bengali",Star Jalsha HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"SzXph3MOVVKM8HoO8SsQ4Q","k":"P8xtlfw5n_KBQCTTN8-hFg"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+#EXTVLCOPT:http-origin=https://jiotv.com
+#EXTVLCOPT:http-referrer=https://jiotv.com/
+#EXTVLCOPT:http-cookie=__hdnea__=st=1785068672~exp=1785090272~acl=/*~hmac=3cb793a18c4e79addfe7463ac2e14a81eaeeafc7acbf93818fc503f7ed477cc8
+https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Jalsha_HD_MOB/WDVLive/index.mpd?__hdnea__=st=1785068672~exp=1785090272~acl=/*~hmac=3cb793a18c4e79addfe7463ac2e14a81eaeeafc7acbf93818fc503f7ed477cc8
+
+#EXTINF:-1 tvg-id="625" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeBangla.png" group-title="Bengali",Zee Bangla
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"gR5oMIlFWh-px-DV0r21_Q","k":"J4KFitbo1aeWTdzXws2yBw"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+#EXTVLCOPT:http-origin=https://jiotv.com
+#EXTVLCOPT:http-referrer=https://jiotv.com/
+#EXTVLCOPT:http-cookie=__hdnea__=st=1785068672~exp=1785090272~acl=/*~hmac=3cb793a18c4e79addfe7463ac2e14a81eaeeafc7acbf93818fc503f7ed477cc8
+https://jiotvmblive.cdn.jio.com/bpk-tv/ZeeBangla_MOB/WDVLive/index.mpd?__hdnea__=st=1785068672~exp=1785090272~acl=/*~hmac=3cb793a18c4e79addfe7463ac2e14a81eaeeafc7acbf93818fc503f7ed477cc8
+
+#EXTINF:-1 tvg-id="756" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Bengali_HD.png" group-title="Bengali",Colors Bangla HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"5STYOStsVVygFrEZcK0PBw","k":"P3oi7f5HBScn9wcBpHK2iQ"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+#EXTVLCOPT:http-origin=https://jiotv.com
+#EXTVLCOPT:http-referrer=https://jiotv.com/
+#EXTVLCOPT:http-cookie=__hdnea__=st=1785068672~exp=1785090272~acl=/*~hmac=3cb793a18c4e79addfe7463ac2e14a81eaeeafc7acbf93818fc503f7ed477cc8
+https://jiotvmblive.cdn.jio.com/bpk-tv/Colors_Bengali_HD_MOB/WDVLive/index.mpd?__hdnea__=st=1785068672~exp=1785090272~acl=/*~hmac=3cb793a18c4e79addfe7463ac2e14a81eaeeafc7acbf93818fc503f7ed477cc8
+
+#EXTINF:-1 tvg-id="697" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyAATH.png" group-title="Bengali",Sony aath
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"6jrZiTL9XfWrJuXoReS5QQ","k":"hrbddoGLj6egu9D2ET1lsA"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+#EXTVLCOPT:http-origin=https://jiotv.com
+#EXTVLCOPT:http-referrer=https://jiotv.com/
+#EXTVLCOPT:http-cookie=__hdnea__=st=1785068672~exp=1785090272~acl=/*~hmac=3cb793a18c4e79addfe7463ac2e14a81eaeeafc7acbf93818fc503f7ed477cc8
+https://jiotvmblive.cdn.jio.com/bpk-tv/SonyAATH_MOB/WDVLive/index.mpd?__hdnea__=st=1785068672~exp=1785090272~acl=/*~hmac=3cb793a18c4e79addfe7463ac2e14a81eaeeafc7acbf93818fc503f7ed477cc8
+
+#EXTINF:-1 tvg-id="1657" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Bangla_Cinema.png" group-title="Bengali",Colors Bangla Cinema
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"yUrSzue7XlOvpHBl16hMrg","k":"uxq8VZS-th9Qlu-HI8Enqg"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+#EXTVLCOPT:http-origin=https://jiotv.com
+#EXTVLCOPT:http-referrer=https://jiotv.com/
+#EXTVLCOPT:http-cookie=__hdnea__=st=1785068672~exp=1785090272~acl=/*~hmac=3cb793a18c4e79addfe7463ac2e14a81eaeeafc7acbf93818fc503f7ed477cc8
+https://jiotvmblive.cdn.jio.com/bpk-tv/Colors_Bangla_Cinema_MOB/WDVLive/index.mpd?__hdnea__=st=1785068672~exp=1785090272~acl=/*~hmac=3cb793a18c4e79addfe7463ac2e14a81eaeeafc7acbf93818fc503f7ed477cc8
+#EXTINF:-1 tvg-id="457" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jalsa_Movies_HD.png" group-title="Bengali",Jalsha Movies HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"ld8f7Mm4UbGGjuB-BOkoqA","k":"U5WQOXNMPAdMjlcQb88dLg"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+#EXTVLCOPT:http-origin=https://jiotv.com
+#EXTVLCOPT:http-referrer=https://jiotv.com/
+#EXTVLCOPT:http-cookie=__hdnea__=st=1785068672~exp=1785090272~acl=/*~hmac=3cb793a18c4e79addfe7463ac2e14a81eaeeafc7acbf93818fc503f7ed477cc8
+https://jiotvmblive.cdn.jio.com/bpk-tv/Jalsa_Movies_HD_MOB/WDVLive/index.mpd?__hdnea__=st=1785068672~exp=1785090272~acl=/*~hmac=3cb793a18c4e79addfe7463ac2e14a81eaeeafc7acbf93818fc503f7ed477cc8
+
+#EXTINF:-1 tvg-id="156" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_HD.png" group-title="Movies",Star Gold HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"ObXHVsGDVdmXj-bGMRtIkQ","k":"Oqp-_GT5uBuRUS0a8sVuPA"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+#EXTVLCOPT:http-origin=https://jiotv.com
+#EXTVLCOPT:http-referrer=https://jiotv.com/
+#EXTVLCOPT:http-cookie=__hdnea__=st=1785068672~exp=1785090272~acl=/*~hmac=3cb793a18c4e79addfe7463ac2e14a81eaeeafc7acbf93818fc503f7ed477cc8
+https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Gold_HD_MOB/WDVLive/index.mpd?__hdnea__=st=1785068672~exp=1785090272~acl=/*~hmac=3cb793a18c4e79addfe7463ac2e14a81eaeeafc7acbf93818fc503f7ed477cc8
+
+#EXTINF:-1 tvg-id="476" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyMAX.png" group-title="Movies",Sony Max HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"nSv7TJqkWsSIvZLsDjUSFw","k":"yYCzlfC-UoxCM0F-9jBSdA"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+#EXTVLCOPT:http-origin=https://jiotv.com
+#EXTVLCOPT:http-referrer=https://jiotv.com/
+#EXTVLCOPT:http-cookie=__hdnea__=st=1785068672~exp=1785090272~acl=/*~hmac=3cb793a18c4e79addfe7463ac2e14a81eaeeafc7acbf93818fc503f7ed477cc8
+https://jiotvmblive.cdn.jio.com/bpk-tv/SonyMAX_MOB/WDVLive/index.mpd?__hdnea__=st=1785068672~exp=1785090272~acl=/*~hmac=3cb793a18c4e79addfe7463ac2e14a81eaeeafc7acbf93818fc503f7ed477cc8
+
+#EXTINF:-1 tvg-id="185" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/AndPicturesHD.png" group-title="Movies",And Pictures HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"CRh7zLfsWUKDUqMbSzIc4A","k":"JbCLHHoATkPvksI5-T5mEw"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+#EXTVLCOPT:http-origin=https://jiotv.com
+#EXTVLCOPT:http-referrer=https://jiotv.com/
+#EXTVLCOPT:http-cookie=__hdnea__=st=1785068672~exp=1785090272~acl=/*~hmac=3cb793a18c4e79addfe7463ac2e14a81eaeeafc7acbf93818fc503f7ed477cc8
+https://jiotvmblive.cdn.jio.com/bpk-tv/AndPicturesHD_MOB/WDVLive/index.mpd?__hdnea__=st=1785068672~exp=1785090272~acl=/*~hmac=3cb793a18c4e79addfe7463ac2e14a81eaeeafc7acbf93818fc503f7ed477cc8
+
+#EXTINF:-1 tvg-id="1113" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_Select_HD.png" group-title="Movies",Star Gold Select HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"hiC9bpEdXG6I47z0tK0fNQ","k":"eoF44BPJr0aMxOIXG2-YVw"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+#EXTVLCOPT:http-origin=https://jiotv.com
+#EXTVLCOPT:http-referrer=https://jiotv.com/
+#EXTVLCOPT:http-cookie=__hdnea__=st=1785068672~exp=1785090272~acl=/*~hmac=3cb793a18c4e79addfe7463ac2e14a81eaeeafc7acbf93818fc503f7ed477cc8
+https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Gold_Select_HD_MOB/WDVLive/index.mpd?__hdnea__=st=1785068672~exp=1785090272~acl=/*~hmac=3cb793a18c4e79addfe7463ac2e14a81eaeeafc7acbf93818fc503f7ed477cc8
+
 #EXTINF:-1 tvg-id="3096" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_2_HD.png" group-title="Movies",Star Gold 2 HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -9,6 +108,36 @@
 #EXTVLCOPT:http-referrer=https://jiotv.com/
 #EXTVLCOPT:http-cookie=__hdnea__=st=1785068672~exp=1785090272~acl=/*~hmac=3cb793a18c4e79addfe7463ac2e14a81eaeeafc7acbf93818fc503f7ed477cc8
 https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Gold_2_HD_MOB/WDVLive/index.mpd?__hdnea__=st=1785068672~exp=1785090272~acl=/*~hmac=3cb793a18c4e79addfe7463ac2e14a81eaeeafc7acbf93818fc503f7ed477cc8
+
+#EXTINF:-1 tvg-id="1477" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ColorsCineplexHD.png" group-title="Movies",Colors Cineplex HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"eg2UvgB8U56KE7Dhc_hn6Q","k":"KA8NhSPp7i2Wo-sAn4oSfw"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+#EXTVLCOPT:http-origin=https://jiotv.com
+#EXTVLCOPT:http-referrer=https://jiotv.com/
+#EXTVLCOPT:http-cookie=__hdnea__=st=1785068672~exp=1785090272~acl=/*~hmac=3cb793a18c4e79addfe7463ac2e14a81eaeeafc7acbf93818fc503f7ed477cc8
+https://jiotvmblive.cdn.jio.com/bpk-tv/ColorsCineplexHD_MOB/WDVLive/index.mpd?__hdnea__=st=1785068672~exp=1785090272~acl=/*~hmac=3cb793a18c4e79addfe7463ac2e14a81eaeeafc7acbf93818fc503f7ed477cc8
+
+#EXTINF:-1 tvg-id="3418" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyMAX1.png" group-title="Movies",Sony MAX1
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"fRiT7LvvWHKjffrbvDBLuQ","k":"3LzsvwGoOMMzbXMqQClu-w"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+#EXTVLCOPT:http-origin=https://jiotv.com
+#EXTVLCOPT:http-referrer=https://jiotv.com/
+#EXTVLCOPT:http-cookie=__hdnea__=st=1785068672~exp=1785090272~acl=/*~hmac=3cb793a18c4e79addfe7463ac2e14a81eaeeafc7acbf93818fc503f7ed477cc8
+https://jiotvmblive.cdn.jio.com/bpk-tv/SonyMAX1_MOB/WDVLive/index.mpd?__hdnea__=st=1785068672~exp=1785090272~acl=/*~hmac=3cb793a18c4e79addfe7463ac2e14a81eaeeafc7acbf93818fc503f7ed477cc8
+
+#EXTINF:-1 tvg-id="483" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyMAX2.png" group-title="Movies",Sony MAX2
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"GOTDVNt8UG2ZZpjK7O2Z0A","k":"u6UGSiwWJ2G7kqFRcMiLdQ"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+#EXTVLCOPT:http-origin=https://jiotv.com
+#EXTVLCOPT:http-referrer=https://jiotv.com/
+#EXTVLCOPT:http-cookie=__hdnea__=st=1785068672~exp=1785090272~acl=/*~hmac=3cb793a18c4e79addfe7463ac2e14a81eaeeafc7acbf93818fc503f7ed477cc8
+https://jiotvmblive.cdn.jio.com/bpk-tv/SonyMAX2_MOB/WDVLive/index.mpd?__hdnea__=st=1785068672~exp=1785090272~acl=/*~hmac=3cb793a18c4e79addfe7463ac2e14a81eaeeafc7acbf93818fc503f7ed477cc8
 
 #EXTINF:-1 tvg-id="3097" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_Romance.png" group-title="Movies",Star Gold Romance
 #KODIPROP:inputstream=inputstream.adaptive
@@ -40,25 +169,45 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Gold_Thrills_MOB/WDVLive/index.mpd?_
 #EXTVLCOPT:http-cookie=__hdnea__=st=1785068672~exp=1785090272~acl=/*~hmac=3cb793a18c4e79addfe7463ac2e14a81eaeeafc7acbf93818fc503f7ed477cc8
 https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Plus_HD_MOB/WDVLive/index.mpd?__hdnea__=st=1785068672~exp=1785090272~acl=/*~hmac=3cb793a18c4e79addfe7463ac2e14a81eaeeafc7acbf93818fc503f7ed477cc8
 
-#EXTINF:-1 tvg-id="1145" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_HD_Plus.png" group-title="Music",MTV HD
+#EXTINF:-1 tvg-id="931" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Bharat_HD.png" group-title="Entertainment",Star Bharat HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"uJchQ9spXuiRoYaS3e4Piw","k":"xIqAb63LLviugA0SjG8zMg"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"rW9z4vfxXtmwlVduQ_5AXw","k":"ONXWadXulvGNyJBjZ1PaOw"}],"type":"temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
 #EXTVLCOPT:http-origin=https://jiotv.com
 #EXTVLCOPT:http-referrer=https://jiotv.com/
 #EXTVLCOPT:http-cookie=__hdnea__=st=1785068672~exp=1785090272~acl=/*~hmac=3cb793a18c4e79addfe7463ac2e14a81eaeeafc7acbf93818fc503f7ed477cc8
-https://jiotvmblive.cdn.jio.com/bpk-tv/MTV_HD_Plus_MOB/WDVLive/index.mpd?__hdnea__=st=1785068672~exp=1785090272~acl=/*~hmac=3cb793a18c4e79addfe7463ac2e14a81eaeeafc7acbf93818fc503f7ed477cc8
+https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Bharat_HD_MOB/WDVLive/index.mpd?__hdnea__=st=1785068672~exp=1785090272~acl=/*~hmac=3cb793a18c4e79addfe7463ac2e14a81eaeeafc7acbf93818fc503f7ed477cc8
 
-#EXTINF:-1 tvg-id="1113" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_Select_HD.png" group-title="Movies",Star Gold Select HD
+#EXTINF:-1 tvg-id="1368" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_SD.png" group-title="Entertainment",Colors SD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"hiC9bpEdXG6I47z0tK0fNQ","k":"eoF44BPJr0aMxOIXG2-YVw"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"VyfS7qkSVaOryti_bpfO5g","k":"Zud8fPXH9lTGjwVFX0T-oA"}],"type":"temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
 #EXTVLCOPT:http-origin=https://jiotv.com
 #EXTVLCOPT:http-referrer=https://jiotv.com/
 #EXTVLCOPT:http-cookie=__hdnea__=st=1785068672~exp=1785090272~acl=/*~hmac=3cb793a18c4e79addfe7463ac2e14a81eaeeafc7acbf93818fc503f7ed477cc8
-https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Gold_Select_HD_MOB/WDVLive/index.mpd?__hdnea__=st=1785068672~exp=1785090272~acl=/*~hmac=3cb793a18c4e79addfe7463ac2e14a81eaeeafc7acbf93818fc503f7ed477cc8
+https://jiotvmblive.cdn.jio.com/bpk-tv/Colors_SD_MOB/WDVLive/index.mpd?__hdnea__=st=1785068672~exp=1785090272~acl=/*~hmac=3cb793a18c4e79addfe7463ac2e14a81eaeeafc7acbf93818fc503f7ed477cc8
+
+#EXTINF:-1 tvg-id="471" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonySAB.png" group-title="Entertainment",Sony SAB HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"8iPPISLXUQ2p_OxuUj_7oQ","k":"xVhIRw9Y072TT7_oRFIrDg"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+#EXTVLCOPT:http-origin=https://jiotv.com
+#EXTVLCOPT:http-referrer=https://jiotv.com/
+#EXTVLCOPT:http-cookie=__hdnea__=st=1785068672~exp=1785090272~acl=/*~hmac=3cb793a18c4e79addfe7463ac2e14a81eaeeafc7acbf93818fc503f7ed477cc8
+https://jiotvmblive.cdn.jio.com/bpk-tv/SonySAB_MOB/WDVLive/index.mpd?__hdnea__=st=1785068672~exp=1785090272~acl=/*~hmac=3cb793a18c4e79addfe7463ac2e14a81eaeeafc7acbf93818fc503f7ed477cc8
+
+#EXTINF:-1 tvg-id="472" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/AndTVHD.png" group-title="Entertainment",And TV HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"Npj3CmgrUDWZy8D8rh9N9A","k":"kafr9w0f129ZuZcMlSXa1w"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+#EXTVLCOPT:http-origin=https://jiotv.com
+#EXTVLCOPT:http-referrer=https://jiotv.com/
+#EXTVLCOPT:http-cookie=__hdnea__=st=1785068672~exp=1785090272~acl=/*~hmac=3cb793a18c4e79addfe7463ac2e14a81eaeeafc7acbf93818fc503f7ed477cc8
+https://jiotvmblive.cdn.jio.com/bpk-tv/AndTVHD_MOB/WDVLive/index.mpd?__hdnea__=st=1785068672~exp=1785090272~acl=/*~hmac=3cb793a18c4e79addfe7463ac2e14a81eaeeafc7acbf93818fc503f7ed477cc8
 
 #EXTINF:-1 tvg-id="1104" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Movies_HD.png" group-title="English",Star Movies HD
 #KODIPROP:inputstream=inputstream.adaptive
@@ -80,55 +229,18 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/StarMoviesHD_MOB/WDVLive/index.mpd?__hdne
 #EXTVLCOPT:http-cookie=__hdnea__=st=1785068672~exp=1785090272~acl=/*~hmac=3cb793a18c4e79addfe7463ac2e14a81eaeeafc7acbf93818fc503f7ed477cc8
 https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Movies_Select_HD_MOB/WDVLive/index.mpd?__hdnea__=st=1785068672~exp=1785090272~acl=/*~hmac=3cb793a18c4e79addfe7463ac2e14a81eaeeafc7acbf93818fc503f7ed477cc8
 
-#EXTINF:-1 tvg-id="931" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Bharat_HD.png" group-title="Entertainment",Star Bharat HD
+#EXTINF:-1 tvg-id="762" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyPIX.png" group-title="English",Sony Pix HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"rW9z4vfxXtmwlVduQ_5AXw","k":"ONXWadXulvGNyJBjZ1PaOw"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"H_H-ayUZViyjooYCWSzVRw","k":"1DEy7KPO_E4pyo_lSKBjiw"}],"type":"temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
 #EXTVLCOPT:http-origin=https://jiotv.com
 #EXTVLCOPT:http-referrer=https://jiotv.com/
 #EXTVLCOPT:http-cookie=__hdnea__=st=1785068672~exp=1785090272~acl=/*~hmac=3cb793a18c4e79addfe7463ac2e14a81eaeeafc7acbf93818fc503f7ed477cc8
-https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Bharat_HD_MOB/WDVLive/index.mpd?__hdnea__=st=1785068672~exp=1785090272~acl=/*~hmac=3cb793a18c4e79addfe7463ac2e14a81eaeeafc7acbf93818fc503f7ed477cc8
+https://jiotvmblive.cdn.jio.com/bpk-tv/SonyPIX_MOB/WDVLive/index.mpd?__hdnea__=st=1785068672~exp=1785090272~acl=/*~hmac=3cb793a18c4e79addfe7463ac2e14a81eaeeafc7acbf93818fc503f7ed477cc8
 
-#EXTINF:-1 tvg-id="457" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jalsa_Movies_HD.png" group-title="Bengali",Jalsha Movies HD
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"ld8f7Mm4UbGGjuB-BOkoqA","k":"U5WQOXNMPAdMjlcQb88dLg"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
-#EXTVLCOPT:http-origin=https://jiotv.com
-#EXTVLCOPT:http-referrer=https://jiotv.com/
-#EXTVLCOPT:http-cookie=__hdnea__=st=1785068672~exp=1785090272~acl=/*~hmac=3cb793a18c4e79addfe7463ac2e14a81eaeeafc7acbf93818fc503f7ed477cc8
-https://jiotvmblive.cdn.jio.com/bpk-tv/Jalsa_Movies_HD_MOB/WDVLive/index.mpd?__hdnea__=st=1785068672~exp=1785090272~acl=/*~hmac=3cb793a18c4e79addfe7463ac2e14a81eaeeafc7acbf93818fc503f7ed477cc8
 
-#EXTINF:-1 tvg-id="317" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Jalsha_HD.png" group-title="Bengali",Star Jalsha HD
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"SzXph3MOVVKM8HoO8SsQ4Q","k":"P8xtlfw5n_KBQCTTN8-hFg"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
-#EXTVLCOPT:http-origin=https://jiotv.com
-#EXTVLCOPT:http-referrer=https://jiotv.com/
-#EXTVLCOPT:http-cookie=__hdnea__=st=1785068672~exp=1785090272~acl=/*~hmac=3cb793a18c4e79addfe7463ac2e14a81eaeeafc7acbf93818fc503f7ed477cc8
-https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Jalsha_HD_MOB/WDVLive/index.mpd?__hdnea__=st=1785068672~exp=1785090272~acl=/*~hmac=3cb793a18c4e79addfe7463ac2e14a81eaeeafc7acbf93818fc503f7ed477cc8
 
-#EXTINF:-1 tvg-id="156" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_HD.png" group-title="Movies",Star Gold HD
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"ObXHVsGDVdmXj-bGMRtIkQ","k":"Oqp-_GT5uBuRUS0a8sVuPA"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
-#EXTVLCOPT:http-origin=https://jiotv.com
-#EXTVLCOPT:http-referrer=https://jiotv.com/
-#EXTVLCOPT:http-cookie=__hdnea__=st=1785068672~exp=1785090272~acl=/*~hmac=3cb793a18c4e79addfe7463ac2e14a81eaeeafc7acbf93818fc503f7ed477cc8
-https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Gold_HD_MOB/WDVLive/index.mpd?__hdnea__=st=1785068672~exp=1785090272~acl=/*~hmac=3cb793a18c4e79addfe7463ac2e14a81eaeeafc7acbf93818fc503f7ed477cc8
-
-#EXTINF:-1 tvg-id="185" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/AndPicturesHD.png" group-title="Movies",And Pictures HD
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"CRh7zLfsWUKDUqMbSzIc4A","k":"JbCLHHoATkPvksI5-T5mEw"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
-#EXTVLCOPT:http-origin=https://jiotv.com
-#EXTVLCOPT:http-referrer=https://jiotv.com/
-#EXTVLCOPT:http-cookie=__hdnea__=st=1785068672~exp=1785090272~acl=/*~hmac=3cb793a18c4e79addfe7463ac2e14a81eaeeafc7acbf93818fc503f7ed477cc8
-https://jiotvmblive.cdn.jio.com/bpk-tv/AndPicturesHD_MOB/WDVLive/index.mpd?__hdnea__=st=1785068672~exp=1785090272~acl=/*~hmac=3cb793a18c4e79addfe7463ac2e14a81eaeeafc7acbf93818fc503f7ed477cc8
 
 
 #EXTINF:-1 tvg-id="1332" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Nat_Geo_Wild_HD.png" group-title="English",Nat Geo Wild HD
@@ -151,11 +263,66 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Nat_Geo_Wild_HD_MOB/WDVLive/index.mpd?__h
 #EXTVLCOPT:http-cookie=__hdnea__=st=1785068672~exp=1785090272~acl=/*~hmac=3cb793a18c4e79addfe7463ac2e14a81eaeeafc7acbf93818fc503f7ed477cc8
 https://jiotvmblive.cdn.jio.com/bpk-tv/National_Geographic_HD_MOB/WDVLive/index.mpd?__hdnea__=st=1785068672~exp=1785090272~acl=/*~hmac=3cb793a18c4e79addfe7463ac2e14a81eaeeafc7acbf93818fc503f7ed477cc8
 
+#EXTINF:-1 tvg-id="463" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/DiscoveryHDEng.png" group-title="English",Discovery HD English
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"oqnCSvq9X-CqLOnU-gn4kg","k":"jRhpEIzC7gELdWZi7o7GXg"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+#EXTVLCOPT:http-origin=https://jiotv.com
+#EXTVLCOPT:http-referrer=https://jiotv.com/
+#EXTVLCOPT:http-cookie=__hdnea__=st=1785068672~exp=1785090272~acl=/*~hmac=3cb793a18c4e79addfe7463ac2e14a81eaeeafc7acbf93818fc503f7ed477cc8
+https://jiotvmblive.cdn.jio.com/bpk-tv/DiscoveryHDEng_MOB/WDVLive/index.mpd?__hdnea__=st=1785068672~exp=1785090272~acl=/*~hmac=3cb793a18c4e79addfe7463ac2e14a81eaeeafc7acbf93818fc503f7ed477cc8
 
 
+#EXTINF:-1 tvg-id="286" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/AnimalPlanetHDEng.png" group-title="English",Animal Planet HD English
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"qv0Gfpw-UMSyXCOTc7khAw","k":"SjFi9mybteJNBYc796oF8g"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+#EXTVLCOPT:http-origin=https://jiotv.com
+#EXTVLCOPT:http-referrer=https://jiotv.com/
+#EXTVLCOPT:http-cookie=__hdnea__=st=1785068672~exp=1785090272~acl=/*~hmac=3cb793a18c4e79addfe7463ac2e14a81eaeeafc7acbf93818fc503f7ed477cc8
+https://jiotvmblive.cdn.jio.com/bpk-tv/AnimalPlanetHDEng_MOB/WDVLive/index.mpd?__hdnea__=st=1785068672~exp=1785090272~acl=/*~hmac=3cb793a18c4e79addfe7463ac2e14a81eaeeafc7acbf93818fc503f7ed477cc8
 
+#EXTINF:-1 tvg-id="821" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyBBCEarthHin.png" group-title="Infotainment",Sony BBC Earth HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"DVM92SygV86FkQ-7mL531Q","k":"RCaQx8WFLKfGO2PUg6trww"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+#EXTVLCOPT:http-origin=https://jiotv.com
+#EXTVLCOPT:http-referrer=https://jiotv.com/
+#EXTVLCOPT:http-cookie=__hdnea__=st=1785068672~exp=1785090272~acl=/*~hmac=3cb793a18c4e79addfe7463ac2e14a81eaeeafc7acbf93818fc503f7ed477cc8
+https://jiotvmblive.cdn.jio.com/bpk-tv/SonyBBCEarthHin_MOB/WDVLive/index.mpd?__hdnea__=st=1785068672~exp=1785090272~acl=/*~hmac=3cb793a18c4e79addfe7463ac2e14a81eaeeafc7acbf93818fc503f7ed477cc8
 
+#EXTINF:-1 tvg-id="479" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/TLCHDEnglish.png" group-title="English",TLC HD English
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"p6VEyXLnUg--ifgBkcIaew","k":"9-dT1Ye34zgU5u6ypMl9mQ"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+#EXTVLCOPT:http-origin=https://jiotv.com
+#EXTVLCOPT:http-referrer=https://jiotv.com/
+#EXTVLCOPT:http-cookie=__hdnea__=st=1785068672~exp=1785090272~acl=/*~hmac=3cb793a18c4e79addfe7463ac2e14a81eaeeafc7acbf93818fc503f7ed477cc8
+https://jiotvmblive.cdn.jio.com/bpk-tv/TLCHDEnglish_MOB/WDVLive/index.mpd?__hdnea__=st=1785068672~exp=1785090272~acl=/*~hmac=3cb793a18c4e79addfe7463ac2e14a81eaeeafc7acbf93818fc503f7ed477cc8
 
+#EXTINF:-1 tvg-id="164" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Travel_XP_HD.png" group-title="English",Travelxp HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"FXzRvXGiVv6Kt2O6KAMg5Q","k":"a-_ei5C2kmQjzIN3W43LWQ"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+#EXTVLCOPT:http-origin=https://jiotv.com
+#EXTVLCOPT:http-referrer=https://jiotv.com/
+#EXTVLCOPT:http-cookie=__hdnea__=st=1785068672~exp=1785090272~acl=/*~hmac=3cb793a18c4e79addfe7463ac2e14a81eaeeafc7acbf93818fc503f7ed477cc8
+https://jiotvmblive.cdn.jio.com/bpk-tv/Travel_XP_HD_MOB/WDVLive/index.mpd?__hdnea__=st=1785068672~exp=1785090272~acl=/*~hmac=3cb793a18c4e79addfe7463ac2e14a81eaeeafc7acbf93818fc503f7ed477cc8
+
+#EXTINF:-1 tvg-id="1145" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_HD_Plus.png" group-title="Music",MTV HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"uJchQ9spXuiRoYaS3e4Piw","k":"xIqAb63LLviugA0SjG8zMg"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+#EXTVLCOPT:http-origin=https://jiotv.com
+#EXTVLCOPT:http-referrer=https://jiotv.com/
+#EXTVLCOPT:http-cookie=__hdnea__=st=1785068672~exp=1785090272~acl=/*~hmac=3cb793a18c4e79addfe7463ac2e14a81eaeeafc7acbf93818fc503f7ed477cc8
+https://jiotvmblive.cdn.jio.com/bpk-tv/MTV_HD_Plus_MOB/WDVLive/index.mpd?__hdnea__=st=1785068672~exp=1785090272~acl=/*~hmac=3cb793a18c4e79addfe7463ac2e14a81eaeeafc7acbf93818fc503f7ed477cc8
 
 
 
