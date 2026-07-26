@@ -1,14 +1,5 @@
 #EXTM3U x-tvg-url=""
 
-#EXTINF:-1 tvg-id="143" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/CNBCTV18Prime.png" group-title="English",CNBC TV18 Prime
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"6xkRPBHOXPuAyJaWdloBhw","k":"snl85eQD7iLY42xtXytmMA"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
-#EXTVLCOPT:http-origin=https://jiotv.com
-#EXTVLCOPT:http-referrer=https://jiotv.com/
-#EXTVLCOPT:http-cookie=__hdnea__=st=1785068672~exp=1785090272~acl=/*~hmac=3cb793a18c4e79addfe7463ac2e14a81eaeeafc7acbf93818fc503f7ed477cc8
-https://jiotvmblive.cdn.jio.com/bpk-tv/CNBCTV18Prime_MOB/WDVLive/index.mpd?__hdnea__=st=1785068672~exp=1785090272~acl=/*~hmac=3cb793a18c4e79addfe7463ac2e14a81eaeeafc7acbf93818fc503f7ed477cc8
 
 #EXTINF:-1 tvg-id="156" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_HD.png" group-title="Movies",Star Gold HD
 #KODIPROP:inputstream=inputstream.adaptive
@@ -30,25 +21,7 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Gold_HD_MOB/WDVLive/index.mpd?__hdne
 #EXTVLCOPT:http-cookie=__hdnea__=st=1785068672~exp=1785090272~acl=/*~hmac=3cb793a18c4e79addfe7463ac2e14a81eaeeafc7acbf93818fc503f7ed477cc8
 https://jiotvmblive.cdn.jio.com/bpk-tv/Travel_XP_HD_MOB/WDVLive/index.mpd?__hdnea__=st=1785068672~exp=1785090272~acl=/*~hmac=3cb793a18c4e79addfe7463ac2e14a81eaeeafc7acbf93818fc503f7ed477cc8
 
-#EXTINF:-1 tvg-id="166" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/CNTelugu.png" group-title="Telugu",Cartoon Network Telugu
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"Pl7GPibBUgOAI2lBw4SPaA","k":"-UTn7pJgqeYjkXDbTW-nEw"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
-#EXTVLCOPT:http-origin=https://jiotv.com
-#EXTVLCOPT:http-referrer=https://jiotv.com/
-#EXTVLCOPT:http-cookie=__hdnea__=st=1785068672~exp=1785090272~acl=/*~hmac=3cb793a18c4e79addfe7463ac2e14a81eaeeafc7acbf93818fc503f7ed477cc8
-https://jiotvmblive.cdn.jio.com/bpk-tv/CNTelugu_MOB/WDVLive/index.mpd?__hdnea__=st=1785068672~exp=1785090272~acl=/*~hmac=3cb793a18c4e79addfe7463ac2e14a81eaeeafc7acbf93818fc503f7ed477cc8
 
-#EXTINF:-1 tvg-id="175" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Aastha.png" group-title="Devotional",Aastha
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"vcGpCaiWW-O1MmIK91DM1Q","k":"Eb6XcIFEKjnUe7ZwfNfXOw"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
-#EXTVLCOPT:http-origin=https://jiotv.com
-#EXTVLCOPT:http-referrer=https://jiotv.com/
-#EXTVLCOPT:http-cookie=__hdnea__=st=1785068672~exp=1785090272~acl=/*~hmac=3cb793a18c4e79addfe7463ac2e14a81eaeeafc7acbf93818fc503f7ed477cc8
-https://jiotvmblive.cdn.jio.com/bpk-tv/Aastha_MOB/WDVLive/index.mpd?__hdnea__=st=1785068672~exp=1785090272~acl=/*~hmac=3cb793a18c4e79addfe7463ac2e14a81eaeeafc7acbf93818fc503f7ed477cc8
 
 #EXTINF:-1 tvg-id="177" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ABP_News_India.png" group-title="News",ABP News India
 #KODIPROP:inputstream=inputstream.adaptive
@@ -60,15 +33,6 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Aastha_MOB/WDVLive/index.mpd?__hdnea__=st
 #EXTVLCOPT:http-cookie=__hdnea__=st=1785068672~exp=1785090272~acl=/*~hmac=3cb793a18c4e79addfe7463ac2e14a81eaeeafc7acbf93818fc503f7ed477cc8
 https://jiotvmblive.cdn.jio.com/bpk-tv/ABP_News_India_MOB/WDVLive/index.mpd?__hdnea__=st=1785068672~exp=1785090272~acl=/*~hmac=3cb793a18c4e79addfe7463ac2e14a81eaeeafc7acbf93818fc503f7ed477cc8
 
-#EXTINF:-1 tvg-id="180" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Asianet_News.png" group-title="Malayalam",Asianet News
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"j-Q1AW6pUbG0bYy0K7XR-w","k":"bI4rR40Ajadugp9jG44lng"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
-#EXTVLCOPT:http-origin=https://jiotv.com
-#EXTVLCOPT:http-referrer=https://jiotv.com/
-#EXTVLCOPT:http-cookie=__hdnea__=st=1785068672~exp=1785090272~acl=/*~hmac=3cb793a18c4e79addfe7463ac2e14a81eaeeafc7acbf93818fc503f7ed477cc8
-https://jiotvmblive.cdn.jio.com/bpk-tv/Asianet_News_MOB/WDVLive/index.mpd?__hdnea__=st=1785068672~exp=1785090272~acl=/*~hmac=3cb793a18c4e79addfe7463ac2e14a81eaeeafc7acbf93818fc503f7ed477cc8
 
 #EXTINF:-1 tvg-id="185" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/AndPicturesHD.png" group-title="Movies",And Pictures HD
 #KODIPROP:inputstream=inputstream.adaptive
