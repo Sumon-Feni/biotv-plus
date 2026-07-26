@@ -30,8 +30,6 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Gold_Romance_MOB/WDVLive/index.mpd?_
 #EXTVLCOPT:http-cookie=__hdnea__=st=1785068672~exp=1785090272~acl=/*~hmac=3cb793a18c4e79addfe7463ac2e14a81eaeeafc7acbf93818fc503f7ed477cc8
 https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Gold_Thrills_MOB/WDVLive/index.mpd?__hdnea__=st=1785068672~exp=1785090272~acl=/*~hmac=3cb793a18c4e79addfe7463ac2e14a81eaeeafc7acbf93818fc503f7ed477cc8
 
-#EXTINF:-1 tvg-id="1332" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Nat_Geo_Wild_HD.png" group-title="English",Nat Geo Wild HD
-
 #EXTINF:-1 tvg-id="1132" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Plus_HD.png" group-title="Entertainment",Star Plus HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -133,6 +131,7 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Gold_HD_MOB/WDVLive/index.mpd?__hdne
 https://jiotvmblive.cdn.jio.com/bpk-tv/AndPicturesHD_MOB/WDVLive/index.mpd?__hdnea__=st=1785068672~exp=1785090272~acl=/*~hmac=3cb793a18c4e79addfe7463ac2e14a81eaeeafc7acbf93818fc503f7ed477cc8
 
 
+#EXTINF:-1 tvg-id="1332" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Nat_Geo_Wild_HD.png" group-title="English",Nat Geo Wild HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"mZzkjz5NXei3LDTyExdtng","k":"E-PKiR0y0VjYEIAH_viDiA"}],"type":"temporary"}
