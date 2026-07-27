@@ -66,8 +66,8 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Jalsa_Movies_HD_MOB/WDVLive/index.mpd?__h
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
 #EXTVLCOPT:http-origin=https://jiotv.com
 #EXTVLCOPT:http-referrer=https://jiotv.com/
-#EXTVLCOPT:http-cookie=__hdnea__=st=1785068672~exp=1785090272~acl=/*~hmac=3cb793a18c4e79addfe7463ac2e14a81eaeeafc7acbf93818fc503f7ed477cc8
-https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Gold_HD_MOB/WDVLive/index.mpd?__hdnea__=st=1785068672~exp=1785090272~acl=/*~hmac=3cb793a18c4e79addfe7463ac2e14a81eaeeafc7acbf93818fc503f7ed477cc8
+#EXTVLCOPT:http-cookie=__hdnea__=st=1785128969~exp=1785150569~acl=/*~hmac=6719675dabdf92595cd1317f09715df14fa2d854c757de2140a1e9a9bfc24bd0
+https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Gold_HD_MOB/WDVLive/index.mpd?__hdnea__=st=1785128969~exp=1785150569~acl=/*~hmac=6719675dabdf92595cd1317f09715df14fa2d854c757de2140a1e9a9bfc24bd0
 
 #EXTINF:-1 tvg-id="476" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyMAX.png" group-title="Movies",Sony Max HD
 #KODIPROP:inputstream=inputstream.adaptive
